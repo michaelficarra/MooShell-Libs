@@ -1,0 +1,13 @@
+P.log, P.error {
+    font-family: monospace;
+    padding: 6px;
+    margin: 5px 2px;
+}
+P.log {
+    border: 1px solid #88A;
+    background-color: #EEEEF1;
+}
+P.error {
+    border: 1px solid #D88;
+    background-color: #FFE5D0;
+}​
